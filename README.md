@@ -1,4 +1,3 @@
-# Surjeet-Mandal
 # 👋 Konnichiwa! I'm Surjeet Mandal 🇮🇳🇯🇵
 
 ### 🚀 Aspiring Full-Stack Engineer | Frontend Specialist
