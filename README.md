@@ -28,3 +28,6 @@ I am a final-year B.Tech student at **Delhi Global Institute of Technology** (Cl
 ---
 
 📫 **Connect with me**: [LinkedIn](your-link) | [Email](mailto:surjeetmandal698@gmail.com)
+
+![Surjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurjeetMandal&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurjeetMandal&layout=compact&theme=dark)****
